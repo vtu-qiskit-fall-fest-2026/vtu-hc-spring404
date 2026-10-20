@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Spring404** · Team ID `VTU-QFF-HC-0040` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Spring404)
+[⬆ Back to Top](#spring404)
 
 </div>
